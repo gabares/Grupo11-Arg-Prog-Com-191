@@ -1,0 +1,9 @@
+/* Css */
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap');
+
+
+.encabezado {
+    font-family: 'IM Fell English SC', serif;
+    color: darkgreen;
+    margin-top: 20px;
+}

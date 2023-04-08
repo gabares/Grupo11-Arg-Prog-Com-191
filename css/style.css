@@ -5,6 +5,7 @@
 .encabezado {
     font-family: 'IM Fell English SC', serif;
     color: darkgreen;
+    margin-top: 20px;
 }
 
 
@@ -12,6 +13,8 @@
 background-color: rgba(0, 0, 0, 0.30); 
 border-radius: 15px;
 }
+
+.hero{margin-top: 50px;}
 
 
 
@@ -37,4 +40,15 @@ border-radius: 15px;
     padding-bottom: 2rem;
     border-top: 1px solid lightslategray;
     border-bottom: 1px solid lightslategray; 
+  }
+
+  .footer {
+    font-family: 'IM Fell English SC', serif;
+    color: darkgreen;
+    margin-top: 20px;
+}
+
+.footer {
+  background-color: rgba(161, 161, 161, 0.925); 
+  border-radius: 15px;
   }
